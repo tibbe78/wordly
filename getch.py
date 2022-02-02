@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Built on code from https://stackoverflow.com/users/355230/martineau 
 
 class _Getch:
     """Gets a single character from standard input.  Does not echo to the

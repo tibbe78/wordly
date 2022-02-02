@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Built on https://tipsfordev.com/printing-extended-ascii-characters-in-python
+
 class TableBorder:
     def __init__ (self, top_left, top_split, top_right,
         mid_left, mid_split, mid_right,
